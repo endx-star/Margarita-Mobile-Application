@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="app_name">That Margarita App</string> 
+  <string name="facebook_app_id">555557190011902</string>
+  <string name="fb_login_protocol_scheme">fb555557190011902</string>
+  <string name="facebook_client_token">804c742d60c3b46460aaa7fbb6da7653</string>
+</resources>
